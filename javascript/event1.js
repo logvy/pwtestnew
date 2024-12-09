@@ -1,0 +1,1 @@
+alert('Congratulation, you found the secret chamber (•‿•)')
